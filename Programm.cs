@@ -1,6 +1,5 @@
 using System;
 
-
 namespace hello_world
 {
     public class Program
